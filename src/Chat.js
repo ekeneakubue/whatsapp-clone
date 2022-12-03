@@ -1,6 +1,6 @@
 import { Avatar, IconButton } from '@material-ui/core'
 import { AttachFile, InsertEmoticon, MoreVert, SearchOutlined} from '@material-ui/icons'
-import MicIcon from '@material-ui/icons/Mic'
+import MicIcon from '@mui/icons-material/Mic'
 import React from 'react'
 import './Chat.css'
 
