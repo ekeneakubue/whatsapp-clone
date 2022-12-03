@@ -8,7 +8,7 @@ export default function Chat() {
   return (
     <div className='chat'>
         <div className='chat__header'>
-            <Avatar />
+            <Avatar src="" />
 
             <div className='chat__headerInfo'>
                 <h3>Room Name</h3>
